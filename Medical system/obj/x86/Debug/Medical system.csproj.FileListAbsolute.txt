@@ -1,0 +1,15 @@
+E:\Collage\Sagar\Sem 4\Practicals\GUI\Medical system\Medical system\bin\Debug\Medical system.exe
+E:\Collage\Sagar\Sem 4\Practicals\GUI\Medical system\Medical system\bin\Debug\Medical system.pdb
+E:\Collage\Sagar\Sem 4\Practicals\GUI\Medical system\Medical system\obj\x86\Debug\Medical_system.Form1.resources
+E:\Collage\Sagar\Sem 4\Practicals\GUI\Medical system\Medical system\obj\x86\Debug\Medical_system.Properties.Resources.resources
+E:\Collage\Sagar\Sem 4\Practicals\GUI\Medical system\Medical system\obj\x86\Debug\Medical system.csproj.GenerateResource.Cache
+E:\Collage\Sagar\Sem 4\Practicals\GUI\Medical system\Medical system\obj\x86\Debug\Medical system.exe
+E:\Collage\Sagar\Sem 4\Practicals\GUI\Medical system\Medical system\obj\x86\Debug\Medical system.pdb
+E:\Collage\Sagar\Sem 4\Practicals\GUI\Medical system\Medical system\obj\x86\Debug\Medical_system.Home.resources
+E:\Collage\Sagar\Sem 4\Practicals\GUI\Medical system\Medical system\obj\x86\Debug\Medical_system.MangeUser.resources
+E:\Collage\Sagar\Sem 4\Practicals\GUI\Medical system\Medical system\obj\x86\Debug\Medical_system.Company.resources
+E:\Collage\Sagar\Sem 4\Practicals\GUI\Medical system\Medical system\obj\x86\Debug\Medical_system.Stock.resources
+E:\Collage\Sagar\Sem 4\Practicals\GUI\Medical system\Medical system\obj\x86\Debug\Medical_system.SaleRepots.resources
+E:\Collage\Sagar\Sem 4\Practicals\GUI\Medical system\Medical system\obj\x86\Debug\Medical_system.StockInRepots.resources
+E:\Collage\Sagar\Sem 4\Practicals\GUI\Medical system\Medical system\obj\x86\Debug\Medical_system.TotalStock.resources
+E:\Collage\Sagar\Sem 4\Practicals\GUI\Medical system\Medical system\obj\x86\Debug\Medical system.csprojResolveAssemblyReference.cache
